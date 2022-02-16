@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/build/static/index.html/static/css/main.05c02244.css",
-    "main.js": "/build/static/index.html/static/js/main.fbb57d2c.js",
-    "static/js/787.f8a2a153.chunk.js": "/build/static/index.html/static/js/787.f8a2a153.chunk.js",
-    "index.html": "/build/static/index.html/index.html",
-    "main.05c02244.css.map": "/build/static/index.html/static/css/main.05c02244.css.map",
-    "main.fbb57d2c.js.map": "/build/static/index.html/static/js/main.fbb57d2c.js.map",
-    "787.f8a2a153.chunk.js.map": "/build/static/index.html/static/js/787.f8a2a153.chunk.js.map"
+    "main.css": "/bankingapp/static/css/main.05c02244.css",
+    "main.js": "/bankingapp/static/js/main.e8dd9a79.js",
+    "static/js/787.f8a2a153.chunk.js": "/bankingapp/static/js/787.f8a2a153.chunk.js",
+    "index.html": "/bankingapp/index.html",
+    "main.05c02244.css.map": "/bankingapp/static/css/main.05c02244.css.map",
+    "main.e8dd9a79.js.map": "/bankingapp/static/js/main.e8dd9a79.js.map",
+    "787.f8a2a153.chunk.js.map": "/bankingapp/static/js/787.f8a2a153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05c02244.css",
-    "static/js/main.fbb57d2c.js"
+    "static/js/main.e8dd9a79.js"
   ]
 }
